@@ -1,0 +1,6 @@
+server:
+  prot: 8080
+cupSize: B
+girl:
+  cupSize: B
+  age: 18
