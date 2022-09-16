@@ -4,9 +4,9 @@
 <!--namespace 指向mapper-->
 <!--resultType返回的数据-->
 <!--id mapper里用的方法-->
-<mapper namespace="com.test0805.demo.mapper.UserMapper">
+<mapper namespace="com.test0805.demo.mapper.DemoMapper">
 
     <select id="findAll" resultType="com.test0805.demo.entity.User">
-        SELECT * From user
+        SELECT * From demo
     </select>
 </mapper>

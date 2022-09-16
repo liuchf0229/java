@@ -10,4 +10,9 @@ PRIMARY KEY (`area_id`),
 UNIQUE KEY `UK_AREA`(`area_name`)
 ) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
 
-insert into `ebook` (area_id, area_name, priority, create_time, last_edit_time) values (1, '东苑', 1, '', '');
+insert into `tb_area` (area_id, area_name, priority, create_time, last_edit_time)
+    values (1, '东苑', 3, null, null);
+insert into `tb_area` (area_id, area_name, priority, create_time, last_edit_time)
+values (2, '西苑', 2, null, null);
+
+SELECT * FROM tb_area ORDER BY area_id ASC
