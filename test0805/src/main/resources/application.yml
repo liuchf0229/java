@@ -1,13 +1,15 @@
 
 server:
   port: 8081
+#  context-path=/demo
 
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://127.0.0.1:3306/dbgirl
+    url: jdbc:mysql://127.0.0.1:3306/dbgirl?useUnicode=true&characterEncoding=utf8&useSSL=false
     username: root
     password: Fan@0229
 
 mybatis:
-  mapper-locations: classpath:resources/*.xml
+  mapper-locations: classpath:mapper/*.xml
+
