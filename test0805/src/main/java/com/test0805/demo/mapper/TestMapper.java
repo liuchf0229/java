@@ -3,8 +3,13 @@ package com.test0805.demo.mapper;
 import com.test0805.demo.domain.Test;
 import com.test0805.demo.domain.TestExample;
 import java.util.List;
-import org.apache.ibatis.annotations.Param;
 
+import org.apache.ibatis.annotations.Mapper;
+import org.apache.ibatis.annotations.Param;
+import org.springframework.stereotype.Repository;
+
+@Mapper
+@Repository
 public interface TestMapper {
     long countByExample(TestExample example);
 

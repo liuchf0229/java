@@ -3,8 +3,13 @@ package com.test0805.demo.mapper;
 import com.test0805.demo.domain.Ebook;
 import com.test0805.demo.domain.EbookExample;
 import java.util.List;
-import org.apache.ibatis.annotations.Param;
 
+import org.apache.ibatis.annotations.Mapper;
+import org.apache.ibatis.annotations.Param;
+import org.springframework.stereotype.Repository;
+
+@Mapper
+@Repository
 public interface EbookMapper {
     long countByExample(EbookExample example);
 
