@@ -4,9 +4,9 @@
 <!--namespace 指向mapper-->
 <!--resultType返回的数据-->
 <!--id mapper里用的方法-->
-<mapper namespace="com.javaPractice.demo.mapper.UserMapper">
+<mapper namespace="com.javaPractice.practice.mapper.UserMapper">
 
-    <select id="findAll" resultType="com.javaPractice.demo.entity.User">
+    <select id="findAll" resultType="com.javaPractice.practice.entity.User">
         SELECT * From user
     </select>
 </mapper>
