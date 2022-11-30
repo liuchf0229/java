@@ -1,4 +1,4 @@
-package com.javaPractice.practice.utils;
+package com.javaPractice.practice.util;
 
 import org.springframework.beans.BeanUtils;
 import org.springframework.util.CollectionUtils;

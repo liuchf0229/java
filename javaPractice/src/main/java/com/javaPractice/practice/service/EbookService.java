@@ -6,7 +6,7 @@ import com.javaPractice.practice.domain.EbookExample;
 import com.javaPractice.practice.mapper.EbookMapper;
 import com.javaPractice.practice.req.EbookReq;
 import com.javaPractice.practice.resp.EbookResp;
-import com.javaPractice.practice.utils.CopyUtil;
+import com.javaPractice.practice.util.CopyUtil;
 import org.springframework.beans.BeanUtils;
 import org.springframework.stereotype.Service;
 
