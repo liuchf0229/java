@@ -1,5 +1,0 @@
-三选一：
-    filter: 过滤器，计算接口耗时
-    interceptor: 拦截器,
-    Aspect: AOP
-

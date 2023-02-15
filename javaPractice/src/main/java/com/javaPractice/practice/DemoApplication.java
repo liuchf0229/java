@@ -8,6 +8,7 @@ import org.springframework.core.env.Environment;
 
 //@MapperScan("com.javaPractice.practice.mapper")
 @SpringBootApplication
+//快捷键：psvm
 public class DemoApplication {
 
     private static final Logger LOG = LoggerFactory.getLogger(DemoApplication.class);

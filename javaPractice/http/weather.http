@@ -1,0 +1,4 @@
+GET http://localhost:8081/weather?id=1&area=北京
+Accept: application/json
+
+###

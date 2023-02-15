@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b7adc0f-d58a-482d-8bbf-c6830e0724a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../javaPractice/doc/过滤器、拦截器、AOP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/http/weather.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/lib/weather-util-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/lib/weather-util.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/src/main/java/com/javaPractice/practice/controller/WeatherController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/src/main/java/com/javaPractice/practice/sample01/ArrayListSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/src/main/java/com/javaPractice/practice/sample01/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/src/main/java/com/javaPractice/practice/sample01/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/src/main/java/com/javaPractice/practice/sample01/MethodSample01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/src/main/java/com/javaPractice/practice/util/Sample01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/.env.dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/.env.prod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/public/image/cover1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/public/image/cover2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/public/image/jiawaquanzhan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/public/js/echarts_5.0.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/public/js/md5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/public/js/session-storage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/src/components/the-footer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/src/components/the-header.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/src/components/the-welcome.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/src/router/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/src/shims-vue.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/src/store/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/src/util/tool.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/src/views/about.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/src/views/admin/admin-category.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/src/views/admin/admin-doc.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/src/views/admin/admin-ebook.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/src/views/admin/admin-user.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/src/views/aliyun.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/src/views/doc.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/src/views/home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPractice/web/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/dictionaries/64239.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_12_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__net_minidev_json_smart_2_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_17_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_17_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_65.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_65.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_65.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_assertj_assertj_core_3_22_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_mockito_mockito_core_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_springframework_spring_aop_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_springframework_spring_beans_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_springframework_spring_context_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_springframework_spring_core_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_springframework_spring_expression_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_springframework_spring_test_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_springframework_spring_web_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/libraries/Maven__org_yaml_snakeyaml_1_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/javademo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/target/javademo-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/target/javademo-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javademo/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http/demo.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chinaunicom/sandboxie/SandboxieApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chinaunicom/sandboxie/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chinaunicom/sandboxie/service/DemoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/chinaunicom/sandboxie/SandboxieApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaPractice/doc/操作记录" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaPractice/src/main/java/com/javaPractice/practice/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaPractice/src/main/java/com/javaPractice/practice/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaPractice/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaPractice/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LlWrsGxLRBDxxibFK0t0QPj9Pf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\codes\javaGithub\sandboxie\src\main\resources" />
+      <recent name="E:\codes\javaGithub\sandboxie\http" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8082/demo/list" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="HTTP Request.demo#1">
+    <configuration name="demo#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/http/demo.http">
+      <method v="2" />
+    </configuration>
+    <configuration name="SandboxieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sandboxie" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chinaunicom.sandboxie.SandboxieApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.demo#1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b7adc0f-d58a-482d-8bbf-c6830e0724a7" name="Default Changelist" comment="" />
+      <created>1676446351798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676446351798</updated>
+      <workItem from="1676446356446" duration="3405000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
