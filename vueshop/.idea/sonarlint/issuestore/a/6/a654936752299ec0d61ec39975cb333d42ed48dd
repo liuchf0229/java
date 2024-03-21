@@ -1,0 +1,45 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÄÊĞ8
+\	java:S112œ"FDefine and throw a dedicated exception instead of using a generic one.(Ÿ½”
+E
+java:S3740"/Provide the parametrized type for this generic.(‚Ê«
+K
+java:S3740Á"/Provide the parametrized type for this generic.(—‰àòÿÿÿÿÿ
+K
+java:S3740É"/Provide the parametrized type for this generic.(³äÊÁşÿÿÿÿ
+F
+java:S3740ä"/Provide the parametrized type for this generic.(Çïå£
+t
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "count".(ıÿî¢
+z
+java:S1488¬"^Immediately return this expression instead of assigning it to the temporary variable "remove".(²ĞÉàıÿÿÿÿ
+X
+java:S2259Â"AA "NullPointerException" could be thrown; "add" is nullable here.(¶ğ¶Œ
+^
+java:S2259"GA "NullPointerException" could be thrown; "increment" is nullable here.(”ÈÊå
+]
+java:S2259Í"FA "NullPointerException" could be thrown; "isMember" is nullable here.(˜è©ô
+Z
+java:S2259ğ"CA "NullPointerException" could be thrown; "count" is nullable here.(¿¡‚ü
+^
+java:S2259"GA "NullPointerException" could be thrown; "increment" is nullable here.(—È…î
+b
+java:S2259/"GA "NullPointerException" could be thrown; "getExpire" is nullable here.(¿âÖìşÿÿÿÿ
+Y
+java:S2259:"DA "NullPointerException" could be thrown; "hasKey" is nullable here.(òè
+^
+java:S2259ÿ"BA "NullPointerException" could be thrown; "size" is nullable here.(êïïŞúÿÿÿÿ
+^
+java:S2259±"BA "NullPointerException" could be thrown; "size" is nullable here.(Ìéƒıÿÿÿÿ
+Z
+java:S2259"CA "NullPointerException" could be thrown; "count" is nullable here.(¿¡‚ü
+]
+java:S2259İ"AA "NullPointerException" could be thrown; "add" is nullable here.(Ä™‹ûÿÿÿÿ
+X
+java:S2259¾"AA "NullPointerException" could be thrown; "add" is nullable here.(¡èé
+[
+java:S2259­"DA "NullPointerException" could be thrown; "remove" is nullable here.(öŠ€°
+B
+java:S1168À"+Return an empty collection instead of null.(¥¹ï
+B
+java:S1168¥"+Return an empty collection instead of null.(¥¹ï
